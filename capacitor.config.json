@@ -1,0 +1,10 @@
+{
+  "appId": "com.cambiodellaves.app",
+  "appName": "Cambio de Llaves",
+  "webDir": "www",
+  "backgroundColor": "#F7F7F4",
+  "android": {
+    "backgroundColor": "#F7F7F4",
+    "adjustMarginsForEdgeToEdge": "auto"
+  }
+}

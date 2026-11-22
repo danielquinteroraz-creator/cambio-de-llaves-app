@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cambio de Llaves</string>
+    <string name="title_activity_main">Cambio de Llaves</string>
+    <string name="package_name">com.cambiodellaves.app</string>
+    <string name="custom_url_scheme">com.cambiodellaves.app</string>
+</resources>
